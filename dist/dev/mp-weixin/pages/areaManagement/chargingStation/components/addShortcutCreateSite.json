@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "快捷键站",
+  "usingComponents": {
+    "u-icon": "../../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u-steps-item": "../../../../node-modules/uview-plus/components/u-steps-item/u-steps-item",
+    "u-steps": "../../../../node-modules/uview-plus/components/u-steps/u-steps",
+    "u-switch": "../../../../node-modules/uview-plus/components/u-switch/u-switch",
+    "u-form-item": "../../../../node-modules/uview-plus/components/u-form-item/u-form-item",
+    "u-cell": "../../../../node-modules/uview-plus/components/u-cell/u-cell",
+    "u--input": "../../../../node-modules/uview-plus/components/u-input/u-input",
+    "u--form": "../../../../node-modules/uview-plus/components/u-form/u-form"
+  }
+}

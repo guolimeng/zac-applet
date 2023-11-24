@@ -1,0 +1,1 @@
+<view class="wrap data-v-cdb6beb2"><basic-information wx:if="{{b}}" class="data-v-cdb6beb2" bindsettingClick="{{a}}" u-i="cdb6beb2-0" bind:__l="__l" u-p="{{b}}"/><statistics wx:if="{{c}}" class="data-v-cdb6beb2" u-i="cdb6beb2-1" bind:__l="__l" u-p="{{c}}"/><device-list wx:if="{{d}}" class="data-v-cdb6beb2" u-i="cdb6beb2-2" bind:__l="__l" u-p="{{d}}"/></view>

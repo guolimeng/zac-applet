@@ -1,0 +1,63 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/areaManagement/areaManagement/areaList",
+    "pages/areaManagement/areaManagement/addArea",
+    "pages/areaManagement/areaManagement/areaDetails",
+    "pages/areaManagement/areaManagement/components/paymentPageCustom",
+    "pages/areaManagement/areaManagement/components/minimumConsumption",
+    "pages/areaManagement/chargingStation/chargingStationDetails",
+    "pages/areaManagement/chargingStation/components/addChargingStation",
+    "pages/areaManagement/chargingStation/components/addShortcutCreateSite",
+    "pages/areaManagement/chargingStation/components/selectArea",
+    "pages/areaManagement/chargingStation/editChargingStation",
+    "pages/areaManagement/deviceMg/leaveDevice",
+    "pages/businessManagement/businessManagement/businessList",
+    "pages/mine/index",
+    "pages/login/login",
+    "pages/billingTemplate/index",
+    "pages/billingTemplate/addTemplateList",
+    "pages/ledgerManagement/index",
+    "pages/ledgerManagement/addTemplateList"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#006cff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "总览",
+        "iconPath": "static/tabbar/overview.png",
+        "selectedIconPath": "static/tabbar/overview_active.png"
+      },
+      {
+        "pagePath": "pages/areaManagement/areaManagement/areaList",
+        "text": "片区",
+        "iconPath": "static/tabbar/area.png",
+        "selectedIconPath": "static/tabbar/area_active.png"
+      },
+      {
+        "pagePath": "pages/businessManagement/businessManagement/businessList",
+        "text": "营收",
+        "iconPath": "static/tabbar/income.png",
+        "selectedIconPath": "static/tabbar/income_active.png"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "text": "我的",
+        "iconPath": "static/tabbar/me.png",
+        "selectedIconPath": "static/tabbar/me_active.png"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

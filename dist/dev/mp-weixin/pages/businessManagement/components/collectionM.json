@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-icon": "../../../node-modules/uview-plus/components/u-icon/u-icon",
+    "m-modal-data": "../../../components/m-modal-data/m-modal-data",
+    "e-charts": "./ECharts"
+  }
+}

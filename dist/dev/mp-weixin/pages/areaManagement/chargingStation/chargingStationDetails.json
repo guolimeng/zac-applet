@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "充电站详情",
+  "usingComponents": {
+    "basic-information": "../components/basicInformation",
+    "statistics": "../components/statistics",
+    "device-list": "../deviceMg/deviceList"
+  }
+}

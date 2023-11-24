@@ -1,0 +1,1 @@
+<station-info wx:if="{{a}}" u-i="5b822afe-0" bind:__l="__l" u-p="{{b}}"/><station-config wx:if="{{c}}" u-i="5b822afe-1" bind:__l="__l" u-p="{{d}}"/>

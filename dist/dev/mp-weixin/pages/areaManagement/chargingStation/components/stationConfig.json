@@ -1,0 +1,12 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-switch": "../../../../node-modules/uview-plus/components/u-switch/u-switch",
+    "q-form-data": "../../../../components/q-form-data/q-form-data",
+    "up-button": "../../../../node-modules/uview-plus/components/u-button/u-button",
+    "u-button": "../../../../node-modules/uview-plus/components/u-button/u-button",
+    "u-modal": "../../../../node-modules/uview-plus/components/u-modal/u-modal",
+    "up-text": "../../../../node-modules/uview-plus/components/u-text/u-text",
+    "up-input": "../../../../node-modules/uview-plus/components/u-input/u-input"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="content data-v-2cdc3592"><tabs wx:if="{{b}}" class="data-v-2cdc3592" bindchangeTab="{{a}}" u-i="2cdc3592-0" bind:__l="__l" u-p="{{b}}"/><view wx:if="{{c}}" class="data-v-2cdc3592"><total-revenue class="data-v-2cdc3592" u-i="2cdc3592-1" bind:__l="__l"/></view></view>

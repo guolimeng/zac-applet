@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "选择片区",
+  "usingComponents": {
+    "u-search": "../../../../node-modules/uview-plus/components/u-search/u-search",
+    "u-icon": "../../../../node-modules/uview-plus/components/u-icon/u-icon"
+  }
+}

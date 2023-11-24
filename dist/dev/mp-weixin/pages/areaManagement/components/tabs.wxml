@@ -1,0 +1,1 @@
+<view class="tab-title data-v-a918e749"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="tab-pane data-v-a918e749" bindtap="{{item.e}}"><text class="{{['item', 'data-v-a918e749', item.b && 'active']}}">{{item.a}}</text><view wx:if="{{item.c}}" class="line data-v-a918e749"></view></view></view>

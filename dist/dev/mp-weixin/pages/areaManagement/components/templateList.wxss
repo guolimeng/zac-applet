@@ -1,0 +1,105 @@
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.warp-list .warp-list-item.data-v-30c23290 {
+  margin: 15px 0;
+  padding: 15px;
+  border-radius: 5px;
+  background: #F1F6FE;
+  display: flex;
+}
+.warp-list .warp-list-item .select.data-v-30c23290 {
+  height: 100%;
+  margin: auto 0;
+}
+.warp-list .warp-list-item .list-header .list-header-title.data-v-30c23290 {
+  display: flex;
+  justify-content: space-between;
+}
+.warp-list .warp-list-item .list-header .list-header-title .title.data-v-30c23290 {
+  font-size: 20px;
+  display: flex;
+}
+.warp-list .warp-list-item .list-header .list-header-title .title .type.data-v-30c23290 {
+  margin-left: 5px;
+  height: 16px;
+  font-size: 10px;
+  font-weight: bold;
+  color: #e6a23c;
+  white-space: nowrap;
+  line-height: 16px;
+  background: rgb(252, 244, 234);
+  border-radius: 2px;
+  padding: 0 4px;
+  margin-top: 7px;
+}
+.warp-list .warp-list-item .list-header .list-header-title .value.data-v-30c23290 {
+  padding-left: 30px;
+}
+.warp-list .warp-list-item .list-header .subtitle.data-v-30c23290 {
+  color: rgb(140, 142, 152);
+  font-size: 12px;
+  padding: 5px 0;
+}
+.warp-list .warp-list-item .device.data-v-30c23290 {
+  padding-bottom: 5px;
+  font-size: 12px;
+  color: rgb(140, 142, 152);
+}
+.warp-list .warp-list-item .device .device-item.data-v-30c23290 {
+  display: flex;
+  padding: 2px 0;
+}
+.warp-list .warp-list-item .device .device-item .label.data-v-30c23290 {
+  padding-right: 10px;
+  display: flex;
+  line-height: 20px;
+}
+.warp-list .warp-list-item .device .device-item .label .line.data-v-30c23290 {
+  margin: 4px 0;
+  padding-left: 10px;
+  border-right: 1px solid rgb(140, 142, 152);
+}
+.warp-list .warp-list-item .device .device-item .label-title.data-v-30c23290 {
+  color: #000;
+}
+.warp-list .warp-list-item .recently.data-v-30c23290 {
+  display: flex;
+  font-size: 12px;
+  color: rgb(140, 142, 152);
+  justify-content: space-between;
+}
+.warp-list .warp-list-item .recently .recently-l.data-v-30c23290 {
+  display: flex;
+}
+.warp-list .warp-list-item .recently .recently-l .recently-item.data-v-30c23290 {
+  padding-right: 20px;
+}
+.warp-list .warp-list-item .recently .recently-l .recently-item .value.data-v-30c23290 {
+  color: #000;
+}
+.warp-list .warp-list-item .recently .recently-r.data-v-30c23290 {
+  padding-left: 30px;
+}

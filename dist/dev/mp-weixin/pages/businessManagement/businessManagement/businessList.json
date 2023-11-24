@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "营收",
+  "usingComponents": {
+    "total-revenue": "./totalRevenue",
+    "tabs": "../components/tabs"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="data-v-9b89c476"><view class="data-v-9b89c476"><l-echart wx:if="{{c}}" class="echart r data-v-9b89c476" u-r="chart" bindfinished="{{b}}" u-i="9b89c476-0" bind:__l="__l" u-p="{{c}}"></l-echart></view></view>

@@ -1,0 +1,1 @@
+<u-modal wx:if="{{c}}" u-s="{{['confirmButton']}}" u-i="e51a694a-0" bind:__l="__l" u-p="{{c}}"><u-button bindclick="{{a}}" u-i="e51a694a-1,e51a694a-0" bind:__l="__l" u-p="{{b}}" slot="confirmButton"></u-button></u-modal>

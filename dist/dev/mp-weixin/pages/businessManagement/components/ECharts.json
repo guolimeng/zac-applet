@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "l-echart": "../../../components/l-echart/l-echart"
+  }
+}

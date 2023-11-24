@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "充电站编辑",
+  "usingComponents": {
+    "station-info": "./components/stationInfo",
+    "station-config": "./components/stationConfig"
+  }
+}

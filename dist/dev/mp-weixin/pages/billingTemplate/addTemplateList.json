@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "新增计费模板",
+  "usingComponents": {
+    "up-text": "../../node-modules/uview-plus/components/u-text/u-text",
+    "up-input": "../../node-modules/uview-plus/components/u-input/u-input",
+    "u-form-item": "../../node-modules/uview-plus/components/u-form-item/u-form-item",
+    "u--form": "../../node-modules/uview-plus/components/u-form/u-form",
+    "u-icon": "../../node-modules/uview-plus/components/u-icon/u-icon",
+    "u-button": "../../node-modules/uview-plus/components/u-button/u-button",
+    "up-col": "../../node-modules/uview-plus/components/u-col/u-col",
+    "up-row": "../../node-modules/uview-plus/components/u-row/u-row",
+    "u--input": "../../node-modules/uview-plus/components/u-input/u-input",
+    "q-form-data": "../../components/q-form-data/q-form-data",
+    "u-datetime-picker": "../../node-modules/uview-plus/components/u-datetime-picker/u-datetime-picker"
+  }
+}

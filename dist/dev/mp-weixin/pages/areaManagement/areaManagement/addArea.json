@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "新增片区",
+  "usingComponents": {
+    "tabs": "../components/tabs",
+    "area-info": "./components/areaInfo",
+    "area-config": "./components/areaConfig"
+  }
+}

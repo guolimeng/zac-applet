@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "片区详情",
+  "usingComponents": {
+    "basic-information": "../components/basicInformation",
+    "statistics": "../components/statistics",
+    "charging-station-list": "../chargingStation/chargingStationList"
+  }
+}

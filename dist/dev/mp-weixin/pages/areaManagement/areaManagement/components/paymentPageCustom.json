@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付页面消息定制",
+  "usingComponents": {
+    "q-form-data": "../../../../components/q-form-data/q-form-data"
+  }
+}

@@ -1,0 +1,1 @@
+<tabs wx:if="{{a}}" bindchangeTab="{{b}}" u-i="0d70458e-0" bind:__l="__l" u-p="{{c}}"/><area-info wx:if="{{d}}" u-i="0d70458e-1" bind:__l="__l" u-p="{{e}}"/><area-config wx:if="{{f}}" u-i="0d70458e-2" bind:__l="__l" u-p="{{g}}"/>

@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-button": "../../../node-modules/uview-plus/components/u-button/u-button",
+    "u-search": "../../../node-modules/uview-plus/components/u-search/u-search",
+    "u-action-sheet": "../../../node-modules/uview-plus/components/u-action-sheet/u-action-sheet",
+    "template-list": "../components/templateList"
+  }
+}

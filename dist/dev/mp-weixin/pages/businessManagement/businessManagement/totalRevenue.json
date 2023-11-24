@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "date-module": "../components/dateModule",
+    "collection-m": "../components/collectionM",
+    "electricity-statistics": "../components/electricityStatistics",
+    "payment-statistics": "../components/paymentStatistics"
+  }
+}

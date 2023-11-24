@@ -1,0 +1,1 @@
+<view class="wrap data-v-279cf0b4"><basic-information wx:if="{{b}}" class="data-v-279cf0b4" bindsettingClick="{{a}}" u-i="279cf0b4-0" bind:__l="__l" u-p="{{b}}"/><statistics wx:if="{{c}}" class="data-v-279cf0b4" u-i="279cf0b4-1" bind:__l="__l" u-p="{{c}}"/><charging-station-list wx:if="{{d}}" class="data-v-279cf0b4" u-i="279cf0b4-2" bind:__l="__l" u-p="{{d}}"/></view>
