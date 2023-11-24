@@ -1,0 +1,166 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "总览"
+			}
+		},
+		{
+			"path": "pages/areaManagement/areaManagement/areaList",
+			"style": {
+				"navigationBarTitleText": "片区",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/areaManagement/areaManagement/addArea",
+			"style": {
+				"navigationBarTitleText": "新增片区"
+			}
+		},
+		{
+			"path": "pages/areaManagement/areaManagement/areaDetails",
+			"style": {
+				"navigationBarTitleText": "片区详情"
+			}
+		},
+		{
+			"path": "pages/areaManagement/areaManagement/components/paymentPageCustom",
+			"style": {
+				"navigationBarTitleText": "支付页面消息定制"
+			}
+		},
+		{
+			"path": "pages/areaManagement/areaManagement/components/minimumConsumption",
+			"style": {
+				"navigationBarTitleText": "实体卡订单最低消费金额"
+			}
+		},
+		// 充电站
+		{
+			"path": "pages/areaManagement/chargingStation/chargingStationDetails",
+			"style": {
+				"navigationBarTitleText": "充电站详情"
+			}
+		},
+		{
+			"path": "pages/areaManagement/chargingStation/components/addChargingStation",
+			"style": {
+				"navigationBarTitleText": "创建充电站"
+			}
+		},
+		{
+			"path": "pages/areaManagement/chargingStation/components/addShortcutCreateSite",
+			"style": {
+				"navigationBarTitleText": "快捷键站"
+			}
+		},
+		{
+			"path": "pages/areaManagement/chargingStation/components/selectArea",
+			"style": {
+				"navigationBarTitleText": "选择片区"
+			}
+		},
+		{
+			"path": "pages/areaManagement/chargingStation/editChargingStation",
+			"style": {
+				"navigationBarTitleText": "充电站编辑"
+			}
+		},
+		{
+			"path": "pages/areaManagement/deviceMg/leaveDevice",
+			"style": {
+				"navigationBarTitleText": "离线设备"
+			}
+		},
+		{
+			"path": "pages/businessManagement/businessManagement/businessList",
+			"style": {
+				"navigationBarTitleText": "营收"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/billingTemplate/index",
+			"style": {
+				"navigationBarTitleText": "计费模板"
+			}
+		},
+		{
+			"path": "pages/billingTemplate/addTemplateList",
+			"style": {
+				"navigationBarTitleText": "新增计费模板"
+			}
+		},
+		{
+			"path": "pages/ledgerManagement/index",
+			"style": {
+				"navigationBarTitleText": "分账模板"
+			}
+		},
+		{
+			"path": "pages/ledgerManagement/addTemplateList",
+			"style": {
+				"navigationBarTitleText": "新增分账分组"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"easycom": {
+		// 注意一定要放在custom里，否则无效，https://ask.dcloud.net.cn/question/131175
+		"custom": {
+			"^u--(.*)": "uview-plus/components/u-$1/u-$1.vue",
+			"^up-(.*)": "uview-plus/components/u-$1/u-$1.vue",
+	    "^u-([^-].*)": "uview-plus/components/u-$1/u-$1.vue"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#006cff",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+					"pagePath": "pages/home/index",
+					"text": "总览",
+					"iconPath": "static/tabbar/overview.png",
+					"selectedIconPath": "static/tabbar/overview_active.png"
+			},
+			{
+					"pagePath": "pages/areaManagement/areaManagement/areaList",
+					"text": "片区",
+					"iconPath": "static/tabbar/area.png",
+					"selectedIconPath": "static/tabbar/area_active.png"
+			},
+			{
+				"pagePath": "pages/businessManagement/businessManagement/businessList",
+				"text": "营收",
+				"iconPath": "static/tabbar/income.png",
+				"selectedIconPath": "static/tabbar/income_active.png"
+		},
+			{
+					"pagePath": "pages/mine/index",
+					"text": "我的",
+					"iconPath": "static/tabbar/me.png",
+					"selectedIconPath": "static/tabbar/me_active.png"
+			}
+	]
+	}
+}
